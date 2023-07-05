@@ -1,2 +1,6 @@
 # Covid--19-Detection
-A Deep Learning Based projected to determine if a person has Covid-19 or not using X-Rays
+Problem type :- Supervised
+Algorithms used :- CNN
+Dataset :-  https://www.dropbox.com/s/7rjw6oet4za01op/CovidDataset-20200427T133042Z-001.zip?dl=0
+Libraries used :- Keras, Numpy, Seaborn, Matplotlib, os
+
